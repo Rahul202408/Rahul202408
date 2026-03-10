@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Rahul Tejura
 
-<!--
-**Rahul202408/Rahul202408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student (Semester 8)  
+💻 Flutter & Web Developer  
+📱 Mobile App Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Flutter
+- Dart
+- Firebase
+- React
+- Node.js
+- HTML / CSS / JavaScript
+
+---
+
+## 📱 My Projects
+🔹 Jaap App    
+🔹 Wallpaper App  
+🔹 Flipkart Clone
+🔹 Movie Ticket Booking App (UIUX Only for Figma)
+
+---
+
+## 📚 Currently Learning
+- Advanced Flutter Development
+- Backend APIs
+- UI/UX Design
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
