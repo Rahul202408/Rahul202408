@@ -17,7 +17,7 @@
 ---
 
 ## 📱 My Projects
-🔹 Jaap App    
+🔹 Anusthan Jaap App    
 🔹 Wallpaper App  
 🔹 Flipkart Clone
 🔹 Movie Ticket Booking App (UIUX Only for Figma)
