@@ -7,10 +7,11 @@
 ---
 
 ## 🚀 Skills
+- React
+- React Native
 - Flutter
 - Dart
 - Firebase
-- React
 - Node.js
 - HTML / CSS / JavaScript
 
