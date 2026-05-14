@@ -1,6 +1,5 @@
 # Hi 👋 I'm Rahul Tejura
-
-🎓 CSE Student (Semester 8)  
+  
 💻 Flutter & Web Developer  
 📱 Mobile App Developer  
 
